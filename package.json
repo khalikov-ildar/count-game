@@ -1,0 +1,17 @@
+{
+	"name": "count-game",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "npx tsx src/main.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^20.10.3",
+		"tsx": "^4.6.2"
+	}
+}
