@@ -50,6 +50,8 @@ rl.on('line', (input) => {
 			} else {
 				console.log("🟥 You've already guessed this keyword!");
 			}
+		} else {
+			console.log("🗨️ This word doesn't exist in definiton list!");
 		}
 	}
 });
