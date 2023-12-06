@@ -4,9 +4,9 @@
 
 ### Player has a minute to guess as many words as he/she can. After each guess game will indicate the correctness of guess with one of the messages
 
-    1.  "🗨️ This word doesn't exist in definiton list!"
-    2.  "✅ This keyword is exists indeed!"
-    3.  "🟥 You've already guessed this keyword!"
+    1.  "✅ This keyword is exists indeed!"
+    2.  "🟥 You've already guessed this keyword!"
+    3.  "🗨️ This word doesn't exist in definiton list!"
 
 ### After 1 minute game will close itself with the message
 
